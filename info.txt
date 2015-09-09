@@ -1,0 +1,2 @@
+numstars 2
+nummissiles 5
